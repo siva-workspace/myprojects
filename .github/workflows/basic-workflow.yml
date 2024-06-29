@@ -6,7 +6,3 @@ jobs:
   steps:
    - name: print cmds
      run: echo "first run"
-   - name: print multi cmds
-     run: |
-     echo "First output"
-     echo "Second output"
